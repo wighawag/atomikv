@@ -1,0 +1,12 @@
+{
+  "name": "atomikv-monorepo",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "set-defaults": "^0.0.2"
+  },
+  "scripts": {
+    "prepare": "set-defaults .vscode"
+  }
+}
